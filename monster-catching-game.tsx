@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const OPENROUTER_API_KEY = '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';
+const OPENROUTER_API_KEY = 'YouApikey';
 
 const monsterTypes = [
   { name: 'Slime', image: 'https://placehold.co/100x100?text=Slime', baseHP: 50, baseAttack: 5 },
